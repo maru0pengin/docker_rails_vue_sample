@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="こんにちは" />
+  <input type="text" id="sampleText" name="sampleText" required />
 </template>
 
 <script>
